@@ -6,9 +6,28 @@
     <description>Recent content in Categories on nesoft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 05 Nov 2018 13:22:14 +2400</lastBuildDate>
     
 	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>base16</title>
+      <link>http://example.org/categories/base16/</link>
+      <pubDate>Mon, 05 Nov 2018 13:22:14 +2400</pubDate>
+      
+      <guid>http://example.org/categories/base16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://example.org/categories/hugo/</link>
+      <pubDate>Mon, 05 Nov 2018 13:22:14 +2400</pubDate>
+      
+      <guid>http://example.org/categories/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

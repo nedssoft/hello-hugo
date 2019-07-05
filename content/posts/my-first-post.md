@@ -1,6 +1,7 @@
+ ---
+  title: "my first post"
+  date: 2018-11-05T13:22:14+24:00
+  draft: false 
+  tags: ["markdown", "GitHub", "website"]
+  categories: ["hugo", "base16"]
 ---
-title: "My First Post"
-date: 2019-07-05T23:12:39+01:00
-draft: true
----
-

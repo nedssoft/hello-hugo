@@ -4,16 +4,60 @@
   
   <url>
     <loc>http://example.org/categories/</loc>
+    <lastmod>2018-11-05T13:22:14+24:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/github/</loc>
+    <lastmod>2018-11-05T13:22:14+24:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2018-11-05T13:22:14+24:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.org/tags/</loc>
+    <lastmod>2018-11-05T13:22:14+24:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://example.org/categories/base16/</loc>
+    <lastmod>2018-11-05T13:22:14+24:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/hugo/</loc>
+    <lastmod>2018-11-05T13:22:14+24:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/markdown/</loc>
+    <lastmod>2018-11-05T13:22:14+24:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/my-first-post/</loc>
+    <lastmod>2018-11-05T13:22:14+24:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/</loc>
+    <lastmod>2018-11-05T13:22:14+24:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/website/</loc>
+    <lastmod>2018-11-05T13:22:14+24:00</lastmod>
     <priority>0</priority>
   </url>
   
